@@ -1,0 +1,3 @@
+student name: Jakub Niemczynowicz
+student number: 693498
+student class: ITVT1d 2022
